@@ -1,4 +1,4 @@
-# Task Tracker CLI (Rust)
+# Task Tracker CLI
 
 A simple command-line task manager built in Rust.
 
