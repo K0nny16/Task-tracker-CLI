@@ -48,15 +48,6 @@ note --delete 1
 * clap (CLI argument parsing)
 * serde / serde_json (data persistence)
 
-## What I Learned
-
-* Structuring a Rust project using `lib.rs` and `main.rs`
-* Working with enums and pattern matching for command handling
-* Error handling using `Result` and `Option`
-* File I/O and JSON serialization in Rust
-* Designing a CLI interface with `clap`
-* Managing ownership and mutable references in real use cases
-
 ## Design Notes
 
 The application uses a clean separation between:
