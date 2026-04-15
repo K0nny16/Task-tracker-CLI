@@ -68,5 +68,3 @@ This keeps the code modular and easy to extend.
 * Improved CLI UX
 
 ---
-
-This project was built as part of learning Rust through hands-on projects, focusing on practical usage rather than theory.
